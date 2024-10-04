@@ -2,7 +2,7 @@
 * Disciplina: Programaçao Estruturada e Modular 
 *          Prof. Carlos Veríssimo                                    
 *--------------------------------------------------------
-* Objetivo do Programa: Bubble Sort, mas agora melhorado
+* Objetivo do Programa: Bubble Sort de minha autoria, mas agora melhorado
 * Data - 27/09/2024                                                
 * Autor: Caio Lima da Cruz
 *--------------------------------------------------------*/
